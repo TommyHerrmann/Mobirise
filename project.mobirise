@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 237,
+    "uniqCompNum": 240,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-1.png",
     "noImageResize": "",
@@ -1788,7 +1788,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/libelle-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/libelle-2000x13334.jpg",
+                "image": "@PROJECT_PATH@/assets/images/libelle-2000x13335.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4394,7 +4394,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  <div class=\"card-img\"><a href=\"@PROJECT_PATH@/assets/images/entenkonferenz-2000x1333.jpg\" class=\"lytebox\" data-lyte-options=\"group:show\" data-title=\"Enten\"><img src=\"@PROJECT_PATH@/assets/images/enten-600x400.jpg\" class=\"card-img-top\"></a></div>\n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"19\">Enten</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"20\">Klicke auf das Foto für eine Lytebox</h5>\n                    \n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><a href=\"@PROJECT_PATH@/assets/images/libelle-2000x13334.jpg\" class=\"lytebox\" data-lyte-options=\"group:show\" data-title=\"Libelle\"><img src=\"@PROJECT_PATH@/assets/images/libelle-600x400.jpg\" class=\"card-img-top\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"21\">Libelle</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"22\">Klicke auf das Foto für eine Lytebox</h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><a href=\"@PROJECT_PATH@/assets/images/luchs-2000x1333.jpg\" class=\"lytebox\" data-lyte-options=\"group:show\" data-title=\"Luchs\"><img src=\"@PROJECT_PATH@/assets/images/luchs-600x400.jpg\" class=\"card-img-top\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"23\">Luchs</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"24\">Klicke auf das Foto für eine Lytebox</h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><a href=\"@PROJECT_PATH@/assets/images/spatzen2-2000x1333.jpg\" class=\"lytebox\" data-lyte-options=\"group:show\" data-title=\"Spatzen\"><img src=\"@PROJECT_PATH@/assets/images/spatzen-600x400.jpg\" class=\"card-img-top\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"25\">Spatzen</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"26\">Klicke auf das Foto für eine Lytebox</h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  <div class=\"card-img\"><a href=\"@PROJECT_PATH@/assets/images/entenkonferenz-2000x1333.jpg\" class=\"lytebox\" data-lyte-options=\"group:show\" data-title=\"Enten\"><img src=\"@PROJECT_PATH@/assets/images/enten-600x400.jpg\" class=\"card-img-top\"></a></div>\n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"19\">Enten</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"20\">Klicke auf das Foto für eine Lytebox</h5>\n                    \n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><a href=\"@PROJECT_PATH@/assets/images/libelle-2000x13335.jpg\" class=\"lytebox\" data-lyte-options=\"group:show\" data-title=\"Libelle\"><img src=\"@PROJECT_PATH@/assets/images/libelle-600x400.jpg\" class=\"card-img-top\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"21\">Libelle</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"22\">Klicke auf das Foto für eine Lytebox</h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><a href=\"@PROJECT_PATH@/assets/images/luchs-2000x1333.jpg\" class=\"lytebox\" data-lyte-options=\"group:show\" data-title=\"Luchs\"><img src=\"@PROJECT_PATH@/assets/images/luchs-600x400.jpg\" class=\"card-img-top\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"23\">Luchs</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"24\">Klicke auf das Foto für eine Lytebox</h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><a href=\"@PROJECT_PATH@/assets/images/spatzen2-2000x1333.jpg\" class=\"lytebox\" data-lyte-options=\"group:show\" data-title=\"Spatzen\"><img src=\"@PROJECT_PATH@/assets/images/spatzen-600x400.jpg\" class=\"card-img-top\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"25\">Spatzen</h4>\n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"26\">Klicke auf das Foto für eine Lytebox</h5>\n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".card-img {\n    border: 3px solid #ff0000;\n    background-color: #000000;\n    -webkit-border-radius: 50px;\n    -moz-border-radius: 50px;\n    border-radius: 50px;\n    -webkit-box-shadow: 7px 7px 10px 0px rgba(50, 50, 50, 0.78);\n    -moz-box-shadow:    7px 7px 10px 0px rgba(50, 50, 50, 0.78);\n    box-shadow:         7px 7px 10px 0px rgba(50, 50, 50, 0.78);\n}\n.card-img-top {\n    -webkit-border-radius: 50px;\n    -moz-border-radius: 50px;\n    border-radius: 50px;\n}",
@@ -4467,7 +4467,7 @@
           },
           "title": "Publizierung",
           "text": "<br><br>Hier die unterschiedlichen Methoden zur Publizierung<br>mit Mobirise",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Tutorials.html#header2-52\" data-toolbar=\"-mbrBtnMove\">Lokale Publizierung</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Tutorials.html#header2-53\" data-toolbar=\"-mbrBtnMove\">SFTP Publizierung</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Tutorials.html#header2-56\" data-toolbar=\"-mbrBtnMove\">FTP Publizierung</a>  "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Tutorials.html#header2-52\" data-toolbar=\"-mbrBtnMove\">&nbsp;Lokal</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Tutorials.html#header2-53\" data-toolbar=\"-mbrBtnMove\">&nbsp;SFTP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Publizieren.html#header2-54\" data-toolbar=\"-mbrBtnMove\">&nbsp;Pfad&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Tutorials.html#header2-56\" data-toolbar=\"-mbrBtnMove\">&nbsp; FTP&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Publizieren.html#header2-6n\" data-toolbar=\"-mbrBtnMove\">GitHub</a>  "
         },
         {
           "_styles": {
@@ -4781,7 +4781,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false
           },
           "media": {
@@ -4808,7 +4808,64 @@
           },
           "title": "FTP Server<br>Publizierung",
           "text": "Für die direkte, entfernte Publizierung auf den Server verwendet Ihr den FTP-Host von Eurem Provider. Hier als Beispiel meiner von 1&amp;1.<br>Wählt den <b>Port: 21</b> für das <b>FTP</b> Protokoll.<br>Klickt zunächst auf  TEST um die Verbindung zu testen.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Publizieren.html#header2-6n\" data-toolbar=\"-mbrBtnMove\">GitHub Publizierung</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-6n",
+          "_params": {
+            "imageSize": "63",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/github-1400x952.jpg",
+              "link": "",
+              "alt": "",
+              "title": "GitHub Server",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "GitHub Publizierung",
+          "text": "Weiterhin bietet Mobirise die Möglichkeit auf <a href=\"https://github.com/\" target=\"_blank\">GitHub</a> kostenlos zu publizieren. Dafür müsst Ihr Euch zunächst ein Konto dort einrichten. Meines ist \"TommyHerrmann\" und ich habe dieses Projekt hier am 06.02.2017 dort in ein Verzeichnis \"Mobirise\" publiziert, es ist also eventuell nicht mehr aktuell.<br><br>Hier könnt Ihr die Quelltexte einsehen:<br><a href=\"https://github.com/TommyHerrmann/Mobirise/tree/gh-pages\" target=\"_blank\">TommyHerrmann@GitHub</a><br><br>Hier dieses Mobirise-Projekt auf GitHub:<br><a href=\"https://tommyherrmann.github.io/Mobirise/\" target=\"_blank\">Dieses Projekt@GitHub</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#top\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-up mbr-iconfont mbr-iconfont-btn\"></span>nach oben</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#faaf40"
+            }
+          }
         }
       ]
     },
@@ -5749,7 +5806,7 @@
             }
           },
           "title": "Aktiver Editor",
-          "text": "Rechts eine Ansicht des aktivierten Code-Editors.<br>Im Beispiel dieses externen Skriptes, das ich hier zeige, habe ich lediglich in einen vorhandenen Textblock mein &lt;form&gt; Tag, zur Anmeldung im geschützten Bereich, kopiert.<br><br>Im unteren Bereich habe ich noch zusätzliche CSS-Klassen für den Button \"Absenden\" eingetragen. Das ist ein besonders schönes Feature, da dieser <b>CSS-Editor</b> immer nur auf die IDs der jeweiligen \"Section\" wirkt und nicht über die gesamte Seite. Diese CSS-Klassen werden einer vorhandenen CSS-Datei:<br><i>/assets/mobirise/css/mbr-additional.css</i><br>automatisch hinzugefügt.<br><br><a href=\"Code-Editor.html#header2-6f\">zurück</a>",
+          "text": "Rechts eine Ansicht des aktivierten Code-Editors.<br>Im Beispiel dieses externen Skriptes, das ich hier zeige, habe ich lediglich in einen vorhandenen Textblock mein &lt;form&gt; Tag, zur Anmeldung im geschützten Bereich, kopiert.<br><br>Im unteren Bereich habe ich noch zusätzliche CSS-Klassen für den Button \"Absenden\" eingetragen. Das ist ein besonders schönes Feature, da dieser <b>CSS-Editor</b> immer nur auf die IDs der jeweiligen \"Section\" wirkt und nicht über die gesamte Seite. Diese CSS-Klassen werden einer vorhandenen CSS-Datei:<br><i>/assets/mobirise/css/mbr-additional.css</i><br>automatisch hinzugefügt.<br><br>Hier könnt Ihr den kompletten Quelltext meiner Seite \"<a href=\"Mitglieder.php\">Mitglieder</a>\" auf <a href=\"https://github.com/TommyHerrmann/Mobirise/blob/gh-pages/Sichere-Seite.php\" target=\"_blank\">GitHub</a> ansehen.<br><br><a href=\"Code-Editor.html#header2-6f\">zurück</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]

@@ -74,7 +74,7 @@ if (!isset($_SESSION["benutzername"])) {
 
 </section>
 
-<section class="engine"><a rel="external" href="https://mobirise.com">Web Site Builder</a></section><section class="mbr-section article mbr-parallax-background mbr-after-navbar" id="msg-box8-5t" style="background-image: url(assets/images/mbr-3-2000x1500.jpg); padding-top: 120px; padding-bottom: 120px;">
+<section class="engine"><a rel="external" href="https://mobirise.com">Mobirise</a></section><section class="mbr-section article mbr-parallax-background mbr-after-navbar" id="msg-box8-5t" style="background-image: url(assets/images/mbr-3-2000x1500.jpg); padding-top: 120px; padding-bottom: 120px;">
 
     <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(34, 34, 34);">
     </div>
