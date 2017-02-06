@@ -1,6 +1,7 @@
 <?php
 /*
- * PHP-Webseitenschutz - anmeldung.php
+ * PHP-Webseitenschutz - (anmeldung.php)
+ * Seite heißt bei Tommy - Mitglieder.php
  * - https://werner-zenk.de
  */
 
