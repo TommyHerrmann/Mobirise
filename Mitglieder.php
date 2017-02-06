@@ -38,7 +38,8 @@ if (isset($_GET["abmeldung"])) {
    // Zur Anmeldung weiterleiten.
    header("Location: Mitglieder.php");
 }
-?><!DOCTYPE html>
+?>
+<!DOCTYPE html>
 <html>
 <head>
   <!-- Site made with Mobirise Website Builder v3.11.1, https://mobirise.com -->
